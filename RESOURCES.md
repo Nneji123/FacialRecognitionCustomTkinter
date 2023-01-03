@@ -1,0 +1,4 @@
+[](https://meetsuvariya.medium.com/face-recognition-based-attendance-system-with-gui-using-opencv-and-tkinter-2d5ce7422aa5)
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY0bzH4aj8AhUvZaQEHWfgDCEQFnoECA4QAQ&url=https%3A%2F%2Ftowardsdatascience.com%2Fface-recognition-how-lbph-works-90ec258c3d6b&usg=AOvVaw3ModdxcuzwmRuA5AH1t_7q
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY0bzH4aj8AhUvZaQEHWfgDCEQFnoECAsQAQ&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F07%2Funderstanding-face-recognition-using-lbph-algorithm%2F&usg=AOvVaw215JJHGVDMPnzpMZgnuQMN
